@@ -5,7 +5,7 @@
 Welcome to my GitHub profile.
 ---
 
-## 🎓 Education
+## 🎓 Educations
 
 **Institute of Technology of Cambodia (ITC)**  
 📍 Phnom Penh, Cambodia
